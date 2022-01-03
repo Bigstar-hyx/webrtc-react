@@ -1,0 +1,12 @@
+.comments-box {
+  padding: 8px, 0;
+  border: 1px solid #dbdbde;
+  height: 620px;
+  /* width: 320px; */
+  background: #fff;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+}
