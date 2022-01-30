@@ -1,0 +1,19 @@
+import { Input } from 'antd'
+import { SearchOutlined } from '@ant-design/icons'
+
+import './top-search.css'
+
+function TopSearch() {
+  return (
+    <div>
+      <Input
+        className="search"
+        // size="large"
+        defaultValue="今天你想了解什么呢？(☆▽☆)"
+        suffix={<SearchOutlined />}
+      />
+    </div>
+  )
+}
+
+export default TopSearch

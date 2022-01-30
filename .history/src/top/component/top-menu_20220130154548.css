@@ -1,0 +1,12 @@
+ul li a {
+  float: left;
+  color: aliceblue;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  /* text-decoration: none; */
+}

@@ -1,0 +1,21 @@
+ul {
+  margin: auto;
+}
+ul li a {
+  float: left;
+  color: #646c7a;
+  font-size: 13px;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  margin: 0 5px;
+  padding: 0 8px;
+}
+
+a {
+  /* text-decoration: none; */
+}
