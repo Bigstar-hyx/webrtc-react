@@ -1,0 +1,20 @@
+.toutu {
+  padding: 15px 0;
+  height: 550px;
+  background: url(/public/lunbo/toutubj.jpeg);
+  background-size: 100% 100%;
+  /* background: #ad2521; */
+}
+.datu img {
+  margin: 0 160px;
+  height: 520px;
+  width: 1120px;
+  border-radius: 10px;
+  /* color: '#fff';
+  text-align: 'center';
+  background: pink; */
+}
+
+.ant-carousel .slick-dots button {
+  height: 10px;
+}

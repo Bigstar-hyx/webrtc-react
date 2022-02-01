@@ -1,0 +1,15 @@
+.toutu {
+  padding: 15px 0;
+  height: 550px;
+  background: url(/public/lunbo/lunbo1.png);
+  background-size: 100% 100%;
+  /* background: #ad2521; */
+}
+.datu img {
+  margin: 0 160px;
+  height: 520px;
+  width: 1120px;
+  /* color: '#fff';
+  text-align: 'center';
+  background: pink; */
+}
