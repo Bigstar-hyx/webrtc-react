@@ -1,0 +1,26 @@
+.danmu-list {
+}
+.danmu-list ul {
+  margin: 10px 5px;
+  padding: 0;
+}
+
+.danmu-list li {
+  list-style: none;
+}
+.danmu-list ul li {
+  margin: 20px 0;
+}
+
+.danmu-div-left {
+  float: left;
+}
+.danmu-span-right {
+  /* float: right; */
+  color: #646c7a;
+  font-size: 12px;
+}
+
+.danmu-div-left img {
+  width: 30px;
+}

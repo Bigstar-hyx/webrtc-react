@@ -1,0 +1,10 @@
+.viewer-list {
+}
+.viewer-list ul {
+  margin: 0;
+  padding: auto;
+}
+
+.viewer-list li {
+  list-style: none;
+}

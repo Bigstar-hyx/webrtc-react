@@ -1,0 +1,19 @@
+.up-live {
+  margin: 16px 10px 10px 100px;
+  border-radius: 10px;
+  border-width: 0.5px;
+  border-color: #646c7a;
+  border-style: solid;
+  width: 907px;
+  height: 700px;
+  background-color: #fff;
+}
+
+.up-title {
+  height: 100px;
+}
+
+.up-video {
+  height: 524px;
+  background-color: #000;
+}

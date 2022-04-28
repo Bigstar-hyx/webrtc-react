@@ -1,0 +1,37 @@
+.tool-title {
+  height: 50px;
+  /* background-color: pink; */
+}
+.tool-title ul {
+  margin: 0;
+  padding: 0;
+}
+
+.tool-title li {
+  display: inline-block;
+  padding: 8px 0;
+  margin: 0 20px;
+  font-size: 13px;
+  color: #646c7a;
+  /* background-color: #fff; */
+  list-style: none;
+}
+
+.tool-title input {
+  outline-style: none;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 0 10px;
+  width: 200px;
+  height: 30px;
+  background: #f1f2f4;
+}
+
+.tool-title button {
+  padding: 2px 2px;
+  border: none;
+  border-radius: 12px;
+  font-size: 13px;
+  color: #fff;
+  background-color: #1990ff;
+}

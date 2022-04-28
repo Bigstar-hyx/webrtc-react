@@ -1,0 +1,50 @@
+.tool-title {
+  height: 50px;
+}
+.tool-title ul {
+  margin: 0;
+  padding: 0;
+}
+
+.tool-title li {
+  display: inline-block;
+  padding: 6px 0;
+  margin: 0 20px;
+  font-size: 13px;
+  color: #646c7a;
+  /* background-color: #fff; */
+  list-style: none;
+}
+
+.tool-title input {
+  outline-style: none;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 0 10px;
+  width: 200px;
+  height: 30px;
+  background: #f1f2f4;
+}
+
+.tool-title input::-webkit-input-placeholder {
+  color: #c1c1c1;
+}
+
+.tool-title button {
+  border: 1px solid;
+  border-radius: 12px;
+  width: 80px;
+  height: 30px;
+  background-color: #fff;
+}
+
+.tool-title button {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.tool-title button:hover {
+  border: 2px solid #1990ff;
+  background-color: #fff;
+  color: #646c7a;
+}

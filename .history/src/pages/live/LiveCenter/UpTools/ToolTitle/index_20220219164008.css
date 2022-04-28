@@ -1,0 +1,9 @@
+.tool-title {
+  /* padding: 4px 8px; */
+  height: 10px;
+  background-color: pink;
+}
+
+.tool-title ul li {
+  float: left;
+}

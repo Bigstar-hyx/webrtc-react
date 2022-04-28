@@ -1,0 +1,7 @@
+.viewer-list {
+}
+
+.viewer-list li {
+  /* float: left; */
+  list-style: none;
+}

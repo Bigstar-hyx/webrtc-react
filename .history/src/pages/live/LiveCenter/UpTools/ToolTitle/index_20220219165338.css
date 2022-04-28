@@ -1,0 +1,14 @@
+.tool-title {
+  height: 50px;
+  background-color: pink;
+}
+
+ul li {
+  float: left;
+  font-size: 13px;
+  padding: 0px 10px;
+}
+ul {
+  text-align: center;
+  list-style: none;
+}

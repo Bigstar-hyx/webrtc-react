@@ -1,0 +1,43 @@
+.up-live {
+  float: left;
+  margin: 16px 10px 10px 100px;
+  border-radius: 10px;
+  border-width: 0.5px;
+  border-color: #ccc;
+  border-style: solid;
+  width: 907px;
+  height: 700px;
+  background-color: #fff;
+}
+
+.up-title {
+  height: 100px;
+}
+.up-head {
+  float: left;
+  margin: 17px 20px;
+  border-radius: 50%;
+  width: 66px;
+  height: 66px;
+  background: url(../img/upHead.webp);
+  background-size: 100%;
+}
+.up-headline {
+  float: left;
+  margin: 17px 0px;
+  padding: 0px;
+}
+.up-headline ul {
+  padding: 0;
+}
+.up-headline li {
+  list-style: none;
+  float: left;
+  padding: 0px 10px;
+  font-size: 16px;
+}
+
+.up-video {
+  height: 524px;
+  background-color: #000;
+}

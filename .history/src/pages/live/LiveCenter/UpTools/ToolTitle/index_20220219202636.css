@@ -1,0 +1,19 @@
+.tool-title {
+  height: 50px;
+  /* background-color: pink; */
+  /* text-align: center; */
+}
+
+ul li {
+  float: left;
+  font-size: 13px;
+  padding: 0px 10px;
+  /* display: inline-block; */
+}
+ul {
+  /* height: 50px; */
+}
+
+.tool-title {
+  background-color: pink;
+}

@@ -1,0 +1,85 @@
+.up-live {
+  float: left;
+  margin: 16px 10px 10px 100px;
+  border-radius: 10px;
+  border-width: 0.5px;
+  border-color: #ccc;
+  border-style: solid;
+  width: 907px;
+  height: 700px;
+  background-color: #fff;
+}
+
+.up-title {
+  height: 100px;
+}
+.up-head {
+  float: left;
+  margin: 17px 20px;
+  border-radius: 50%;
+  width: 66px;
+  height: 66px;
+  background: url(../img/upHead.webp);
+  background-size: 100%;
+}
+.up-headline {
+  height: 50px;
+}
+.up-headline-l {
+  float: left;
+  margin: 17px 0px;
+  padding: 0px;
+}
+.up-headline-l li {
+  list-style: none;
+  float: left;
+  margin: auto 0;
+  padding: 0px 5px;
+  font-size: 16px;
+  /* flex-direction: row;
+  justify-content: center; */
+  /* line-height: 16px; */
+}
+.up-headline-bun {
+  background-color: white;
+  color: #1a94ff;
+  border: 1px solid #1a94ff;
+}
+.up-headline-r {
+  float: right;
+  margin: 17px 20px 17px 0px;
+  padding: 0px;
+}
+.up-headline-r li a {
+  color: #646c7a;
+  font-size: 12px;
+  margin: 0 3px;
+  padding: 0 8px;
+}
+
+.up-headline-r li {
+  float: right;
+  list-style: none;
+}
+.up-lv {
+  height: 50px;
+  padding: 0;
+}
+.up-lv ul li {
+  list-style: none;
+  float: left;
+  color: #646c7a;
+  font-size: 14px;
+  margin: 0 3px;
+  padding: 0 8px;
+}
+.up-lv-class {
+  background-color: white;
+  color: #855de4;
+  border: 1px solid #855de4;
+}
+
+.up-video {
+  height: 524px;
+  background-color: #000;
+}

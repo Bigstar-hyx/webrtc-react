@@ -1,0 +1,20 @@
+.other-talk {
+  float: right;
+  margin: 16px 110px 10px 10px;
+  border-radius: 10px;
+  border-width: 0.5px;
+  border-color: #ccc;
+  border-style: solid;
+  width: 300px;
+  height: 700px;
+  background-color: #fff;
+}
+.viewer-list {
+  height: 120px;
+  text-align: center;
+  /* background-color: pink; */
+}
+.viewer-list p {
+  /* padding: 10px; */
+  background-color: #fff;
+}

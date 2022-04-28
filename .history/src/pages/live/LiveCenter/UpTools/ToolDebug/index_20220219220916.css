@@ -1,0 +1,46 @@
+.tool-debug {
+  height: 80px;
+  /* background-color: pink; */
+}
+
+.tool-debug-left ul {
+  margin: 0 10px;
+  padding: 0;
+}
+
+.tool-debug-left li {
+  float: left;
+  padding: 15px 0;
+  margin: 0 50px;
+  font-size: 13px;
+  color: #646c7a;
+  list-style: none;
+}
+.tool-debug-left button {
+  width: 60px;
+}
+
+.tool-debug-right {
+  float: right;
+}
+
+.tool-debug-right button {
+  border: none;
+  border-radius: 12px;
+  width: 80px;
+  height: 30px;
+  /* font-size: 13px; */
+  color: #fff;
+  background-color: #1990ff;
+}
+
+.tool-debug-right button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.tool-debug-right button:hover {
+  border: 2px solid #1990ff;
+  background-color: #fff; /* Green */
+  color: #646c7a;
+}

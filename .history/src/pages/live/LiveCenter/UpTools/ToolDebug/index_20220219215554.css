@@ -1,0 +1,9 @@
+.tool-debug {
+  height: 80px;
+  background-color: pink;
+}
+
+.tool-debug-left li {
+  display: inline-block;
+  list-style: none;
+}

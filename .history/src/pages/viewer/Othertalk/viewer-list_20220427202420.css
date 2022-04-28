@@ -1,0 +1,23 @@
+.viewer-list {
+  background-color: #dde0e5;
+}
+.viewer-list ul {
+  margin: 0 10px;
+  padding: 5px;
+}
+
+.viewer-list li {
+  list-style: none;
+}
+.viewer-list ul li {
+  margin: 10px 0;
+}
+
+.div-left {
+  float: left;
+}
+.span-right {
+  /* float: right; */
+  color: #646c7a;
+  font-size: 12px;
+}
